@@ -1,0 +1,1 @@
+TechBlog is a Web Application built using different technologies.<br>The main objective of this project is to provide technical blogs on online platform at free of cost.<br>Like other social media platform in this application also users can see the posts of other users and<br> also like and comment on the posts and can also post their own blogs.
